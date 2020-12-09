@@ -1,4 +1,4 @@
-//code of advent 9
+//code of advent: day 9
 #include <iostream>
 #include <fstream>
 #include <vector>
